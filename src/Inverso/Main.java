@@ -22,6 +22,8 @@ public class Main {
 
     System.out.println(valorInverso);
 
+    System.out.println(110%10);
+
     scanner.close();
 
   }
